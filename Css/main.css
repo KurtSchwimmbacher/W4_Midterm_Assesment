@@ -242,3 +242,24 @@ footer{
     border: 2px solid #2b2b2b;
     padding-top: 3px;
 }
+
+/*Styling for 50% layout*/
+.fifty-2{
+    margin-top: 60px;
+    text-align: center;
+}
+
+.fifty-fifty{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.fifty-box{
+    margin: 0 auto;
+    width: 100%;
+    height: 400px;
+    background-color: lightgray;
+    margin-top: 50px;
+    border-radius: 2px;
+    margin-bottom: 20px;
+}
