@@ -71,20 +71,11 @@ header h1{
     font-size: 45px;
     margin-bottom: 15px;
 }
-
-    /*Sub heading styling*/
-.sub-1{
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
-
-.assess-1{
+   
+/*Sub heading styling*/
+.assess{
     margin-top: 20px;
     margin-bottom: 0px;
-}
-.assess-2{
-    margin-top: 0px;
-    margin-bottom: 20px;
 }
 
 /*Body Styling*/
@@ -174,6 +165,7 @@ header h1{
 
 /*Buttons hover state in 25% layouts*/
 .button-click:hover{
+    cursor: pointer;
     width: 150px;
     height: 35px;
     background-color: #ffffff;
