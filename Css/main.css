@@ -71,6 +71,7 @@ header h1{
     margin-bottom: 20px;
 }
 
+    /*Sub heading styling*/
 .sub-1{
     margin-top: 0px;
     margin-bottom: 0px;
@@ -83,4 +84,14 @@ header h1{
 .assess-2{
     margin-top: 0px;
     margin-bottom: 20px;
+}
+
+/*Body Styling*/
+.intro{
+    width: 100%;
+    height: 80px;
+    background-color: gray;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 10px;
 }
