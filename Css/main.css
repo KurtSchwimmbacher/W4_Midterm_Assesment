@@ -54,15 +54,33 @@ nav{
     cursor: pointer;
     }
 
+/*Header Section formatting*/
 header{
     width: 100%;
     height: 600px;
     background-color: lightgray;
-    padding-top: 100px;
+    padding-top: 150px;
     padding-left: 10%;
     padding-right: 10%;
 }
 
-header h3{
+/*Header text styling*/
+header h1{
+    width: 60%;
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.sub-1{
+    margin-top: 0px;
     margin-bottom: 0px;
+}
+
+.assess-1{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.assess-2{
+    margin-top: 0px;
+    margin-bottom: 20px;
 }
